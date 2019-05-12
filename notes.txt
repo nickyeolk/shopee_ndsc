@@ -1,0 +1,4 @@
+shopee_predictions.csv: tfidf with up to 3-grams, logistic out of box, predicted nans all removed. 0.38970.
+shopee_predictions2.csv: tfidf with up to 3-grams, logistic out of box, predicted nans are ' '. 0.38970.
+
+NaN values can potentially be filled with images e.g. color groups. NaNs are also cause description is in a different language.
